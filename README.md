@@ -1,4 +1,4 @@
-# WebUI-Aria2
+# WebUI-Aria21
 
 ![Main interface](/screenshots/overview.png?raw=true)
 
